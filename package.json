@@ -1,0 +1,17 @@
+{
+  "name": "hh-clicker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1",
+    "babel-eslint": "^10.1.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-playwright": "^0.12.0",
+    "prettier": "2.8.4"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
